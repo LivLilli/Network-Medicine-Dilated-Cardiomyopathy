@@ -9,4 +9,6 @@ Project for Bioinformatics Class
 
 * TASK 2: undirected networks?
 
+* TASK 2.2: si presuppone che solo union e intersection abbiano più componenti connesse? O è ok averne più di una anche in sgi?
+
 
