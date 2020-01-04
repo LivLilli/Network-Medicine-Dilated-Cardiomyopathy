@@ -13,6 +13,11 @@ Project for Bioinformatics Class
 
 * TASK 2.1 (a): si presuppone che solo union e intersection abbiano più componenti connesse? O è ok averne più di una anche in sgi?
 
-* TASK 2.1 (a)(b): salva risultati in matrix format
+* TASK 2.1: calcola global centrality!
+
+* TASK 2.1 (a): salva risultati in matrix format
+
+* TASK 2.1 (b)- GLOBAL: merge dei risultati di R e Python in un unico df.
+              - LOCAL : rinomina righe coi nomi dei nodi (geni).
 
 * TASK 2.2:  check cluster maker in cytoscape.
