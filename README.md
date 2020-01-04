@@ -16,3 +16,5 @@ Project for Bioinformatics Class
 * TASK 2.1 (a)(b): salva risultati in matrix format
 
 * TASK 2.1: troppo tempo per calcolare avg sp, diameter e radius per UNION.
+
+* TASK 2.2:  check cluster maker in cytoscape.
