@@ -47,7 +47,7 @@ task_2_1_b_global = function(a_matrix){
 
 
 ' 
-task_2_1_local()
+task_2_1_b_local()
 
   Input: adjacency matrix.
 
@@ -91,10 +91,10 @@ union_local_df = task_2_1_b_local(lcc_union_matrix)
 
 
 ### save resulting dataframes
-save_to_csv(inters_local_df, 'results/intersection_lcc_local_results.csv')
-save_to_csv(union_local_df, 'results/union_lcc_local_results.csv')
-save_to_csv(inters_global_df, 'results/intersection_lcc_global_results.csv')
-save_to_csv(union_global_df, 'results/union_lcc_global_results.csv')
+save_to_csv(inters_local_df, 'data/intersection_lcc_local_results.csv')
+save_to_csv(union_local_df, 'data/union_lcc_local_results.csv')
+save_to_csv(inters_global_df, 'data/intersection_lcc_global_results.csv')
+save_to_csv(union_global_df, 'data/union_lcc_global_results.csv')
 
 ### TASK 2.2
 
