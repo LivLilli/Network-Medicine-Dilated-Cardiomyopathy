@@ -25,7 +25,7 @@ task_2_1_b_global()
 
   Input: adjacency matrix.
 
-  Output: df with avg sp, diameter, radius of the lcc.
+  Output: df with avg sp, diameter, radius, centralization of the lcc.
 '
 
 task_2_1_b_global = function(a_matrix){
@@ -38,9 +38,17 @@ task_2_1_b_global = function(a_matrix){
   diameter = diameter(graph, directed = FALSE)
   # radius
   radius = radius(graph)
-  
-  df = data.frame(avg_s_p, diameter, radius)
-  colnames(df) = c('Avg Shortest Path', 'Diameter', 'Radius')
+  # centralization btw based
+  btw_centr = centr_betw(graph)$centralization
+  # centralization closeness based
+  clos_centr = centr_clo(graph)$centralization
+  # centralization eigen based
+  eigen_centr = centr_eigen(graph)$centralization 
+  # centralization degree based
+  degree_centr = centr_degree(graph)$centralization
+  df = data.frame(avg_s_p, diameter, radius, btw_centr, clos_centr, eigen_centr, degree_centr)
+  colnames(df) = c('Avg Shortest Path', 'Diameter', 'Radius', 'Btw Centralization', 
+                  'Closeness Centralization', 'Eigen Centralization', 'Degree Centralization')
   return(df)
   
 }
