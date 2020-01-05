@@ -17,7 +17,4 @@ Project for Bioinformatics Class
 
 * TASK 2.1 (a): salva risultati in matrix format
 
-* TASK 2.1 (b)- GLOBAL: merge dei risultati di R e Python in un unico df.
-              - LOCAL : rinomina righe coi nomi dei nodi (geni).
-
 * TASK 2.2:  check cluster maker in cytoscape.
