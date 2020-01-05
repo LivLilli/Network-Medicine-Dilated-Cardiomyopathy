@@ -104,8 +104,3 @@ save_to_csv(union_local_df, 'data/union_lcc_local_results.csv')
 save_to_csv(inters_global_df, 'data/intersection_lcc_global_results.csv')
 save_to_csv(union_global_df, 'data/union_lcc_global_results.csv')
 
-### TASK 2.2
-
-#mcl(matrix, 2)
-
-
