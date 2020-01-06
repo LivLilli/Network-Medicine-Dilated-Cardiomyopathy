@@ -19,3 +19,7 @@ Project for Bioinformatics Class
 * TASK 2.1 (a): salva risultati in matrix format
 
 * TASK 2.2: !!! nessun p-value sotto a 0.05 !!!
+
+* TASK 2.3: su enrichR coi risultati del task 2.2
+
+* TASK 2.4: scarica file py. Eseguire su terminale dando in input i due file richiesti.
