@@ -17,4 +17,4 @@ Project for Bioinformatics Class
 
 * TASK 2.1 (a): salva risultati in matrix format
 
-* TASK 2.2:  check cluster maker in cytoscape.
+* TASK 2.2: nessun p-value sotto a 0.05
