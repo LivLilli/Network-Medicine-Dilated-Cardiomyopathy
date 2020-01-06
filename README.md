@@ -4,6 +4,7 @@ Project for Bioinformatics Class
 
 # DUBBI
 
+* sposta df utili di part1 in data
 
 * TASK 1.3: biogrid: uniprot entry for no-seeds?
 
