@@ -8,7 +8,12 @@ Project for Bioinformatics Class
 
 * TASK 1.3: biogrid: uniprot entry for no-seeds?
 
+* TASK 1.3: Biogrid, union Biogrid e intersection Biogrid: verifica duplicati.
+
+* TASK 1.3: union e intersection: interazioni no seeds- no seeds.
+
 * TASK 1.4: enrichR: save results
+
 
 * TASK 2: undirected networks?
 
@@ -18,7 +23,7 @@ Project for Bioinformatics Class
 
 * TASK 2.1 (a): salva risultati in matrix format
 
-* TASK 2.2: !!! nessun p-value sotto a 0.05 !!!
+* TASK 2.2: !!! nessun p-value sotto a 0.05 !!! Con inflation parameter = 1.5 OK
 
 * TASK 2.3: su enrichR coi risultati del task 2.2
 
