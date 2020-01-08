@@ -5,7 +5,7 @@ Project for Bioinformatics Class
 # DUBBI
 
 
-* PARTE 1: geni a cui corrispondono più uniprot?
+* PARTE 1: microRNA?
 
 * TASK 1.3: biogrid: uniprot entry for no-seeds?
 
