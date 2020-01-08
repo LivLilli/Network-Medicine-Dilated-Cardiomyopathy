@@ -5,11 +5,7 @@ Project for Bioinformatics Class
 # DUBBI
 
 
-* PARTE 1: microRNA?
-
-* TASK 1.3: biogrid: uniprot entry for no-seeds?
-
-* TASK 1.3: Biogrid, union Biogrid e intersection Biogrid: verifica duplicati.
+* TASK 1.3: bio_data, union e intersection: verifica duplicati.
 
 * TASK 1.3: union e intersection: interazioni no seeds- no seeds.
 
