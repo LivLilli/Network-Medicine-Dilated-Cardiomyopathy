@@ -4,7 +4,8 @@ Project for Bioinformatics Class
 
 # DUBBI
 
-* sposta df utili di part1 in data
+
+* PARTE 1: geni a cui corrispondono più uniprot?
 
 * TASK 1.3: biogrid: uniprot entry for no-seeds?
 
