@@ -28,3 +28,10 @@ Project for Bioinformatics Class
 * TASK 2.3: su enrichR coi risultati del task 2.2
 
 * TASK 2.4: scarica file py. Eseguire su terminale dando in input i due file richiesti.
+
+
+
+
+
+
+* Una volta risolti i dubbi, sistema codice
