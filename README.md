@@ -4,6 +4,7 @@ Project for Bioinformatics Class
 
 # DUBBI
 
+* task 1.2: verifica geni con più uniprot entry nelle iterazioni + verifica duplicati
 
 * TASK 1.3: bio_data, union e intersection: verifica duplicati.
 
@@ -11,10 +12,7 @@ Project for Bioinformatics Class
 
 * TASK 1.4: enrichR: save results
 
-
-* TASK 2: undirected networks? Nodi = nomi geni o uniprot?
-
-* TASK 2.1 (a): si presuppone che solo union e intersection abbiano più componenti connesse? O è ok averne più di una anche in sgi?
+* TASK 2: undirected networks?
 
 * TASK 2.1 (a) : calcola global <b>centralization</b>!
 
@@ -28,7 +26,3 @@ Project for Bioinformatics Class
 
 
 
-
-
-
-* Una volta risolti i dubbi, sistema codice
