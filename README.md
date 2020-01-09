@@ -4,11 +4,9 @@ Project for Bioinformatics Class
 
 # DUBBI
 
-* task 1.2: verifica geni con più uniprot entry nelle iterazioni + verifica duplicati
+* task 1.2: verifica se tutte le uniprot sc di TMPO compaiono nelle interazioni iid e biogrid.
 
-* TASK 1.3: bio_data, union e intersection: verifica duplicati.
-
-* TASK 1.3: union e intersection: interazioni no seeds- no seeds.
+* task 1.2 nel report: parla di TMPO e not mapped di biogrid.
 
 * TASK 1.4: enrichR: save results
 
@@ -25,4 +23,4 @@ Project for Bioinformatics Class
 * TASK 2.4: scarica file py. Eseguire su terminale dando in input i due file richiesti.
 
 
-
+* rinomina file risultati coi task
