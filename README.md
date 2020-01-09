@@ -4,6 +4,7 @@ Project for Bioinformatics Class
 
 # DUBBI
 
+* task 1.2: verifica geni con più uniprot entry nelle iterazioni + verifica duplicati
 
 * TASK 1.3: bio_data, union e intersection: verifica duplicati.
 
