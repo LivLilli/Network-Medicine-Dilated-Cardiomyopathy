@@ -8,13 +8,13 @@ Project for Bioinformatics Class
 
 * task 1.2 nel report: parla di TMPO e not mapped di biogrid.
 
-* TASK 1.4: enrichR: save results
-
 * TASK 2: undirected networks?
 
 * TASK 2.1 (a) : calcola global <b>centralization</b>!
 
 * TASK 2.1 (a): salva risultati in matrix format
+
+* TASK 2.2: correggi avg degree.
 
 * TASK 2.2: !!! nessun p-value sotto a 0.05 !!! Con inflation parameter = 1.5 OK
 
