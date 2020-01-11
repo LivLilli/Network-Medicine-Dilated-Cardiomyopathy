@@ -33,7 +33,7 @@ save_to_csv = function(df, name){
 }
 
 ### load adjacency matrices
-intersection = as.matrix(read.table("data/task_2_1_intersection_df_adj_matrix.csv", sep=",", header = TRUE, row.names = 1))
+intersection = as.matrix(read.table("data/task_2_1_intersection_adj_matrix.csv", sep=",", header = TRUE, row.names = 1))
 sgi =  as.matrix(read.table("data/task_2_1_sgi_adj_matrix.csv", sep=",", header = TRUE, row.names = 1))
 union =  as.matrix(read.table("data/task_2_1_union_adj_matrix.csv", sep=",", header = TRUE, row.names = 1))
 ### build graphs from adj matrices
