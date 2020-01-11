@@ -44,7 +44,7 @@ u_graph = graph_from_adjacency_matrix(union,mode = "undirected")
 
 ### avg shortest path, diameter and radius for union graph
 # avg sp
-avg_s_p = average.path.length(u_graph, directed = FALSE, unconnected = TRUE)
+avg_s_p = average.path.length(u_graph, directed = FALSE)
 # diameter
 diameter = diameter(u_graph, directed = FALSE)
 # radius

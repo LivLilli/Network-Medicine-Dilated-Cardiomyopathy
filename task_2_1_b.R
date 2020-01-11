@@ -84,8 +84,8 @@ task_2_1_b_local = function(a_matrix){
 
 ### TASK 2.1 B - GLOBAL
 # load adjacency matrix for union and intersection graphs
-lcc_union_matrix = as.matrix(read.table("data/union_lcc_matrix.csv", sep=",", header = TRUE, row.names = 1))
-lcc_intersection_matrix = as.matrix(read.table("data/intersection_lcc_matrix.csv", sep=",", header = TRUE, row.names = 1))         
+lcc_union_matrix = as.matrix(read.table("data/task_2_1_union_lcc_matrix.csv", sep=",", header = TRUE, row.names = 1))
+lcc_intersection_matrix = as.matrix(read.table("data/task_2_1_intersection_lcc_matrix.csv", sep=",", header = TRUE, row.names = 1))         
 # compute df of global properties for union and intersection lcc
 union_global_df = task_2_1_b_global(lcc_union_matrix)
 inters_global_df = task_2_1_b_global(lcc_intersection_matrix)
@@ -99,8 +99,8 @@ union_local_df = task_2_1_b_local(lcc_union_matrix)
 
 
 ### save resulting dataframes
-save_to_csv(inters_local_df, 'data/intersection_lcc_local_results.csv')
-save_to_csv(union_local_df, 'data/union_lcc_local_results.csv')
-save_to_csv(inters_global_df, 'data/intersection_lcc_global_results.csv')
-save_to_csv(union_global_df, 'data/union_lcc_global_results.csv')
+save_to_csv(inters_local_df, 'data/task_2_1_intersection_lcc_local_results.csv')
+save_to_csv(union_local_df, 'data/task_2_1_union_lcc_local_results.csv')
+save_to_csv(inters_global_df, 'data/task_2_1_intersection_lcc_global_results.csv')
+save_to_csv(union_global_df, 'data/task_2_1_union_lcc_global_results.csv')
 
