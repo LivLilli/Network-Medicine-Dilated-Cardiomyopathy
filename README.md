@@ -14,5 +14,7 @@ Project for Bioinformatics Class
 
 * TASK 2.4: scarica file py. Eseguire su terminale dando in input i due file richiesti.
 
+* TASK 2.4: ENRICHR
+
 
 * rinomina file risultati coi task
