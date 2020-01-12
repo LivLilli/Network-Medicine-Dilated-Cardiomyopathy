@@ -20,11 +20,11 @@ Project for Bioinformatics Class
 
 • very short intro (10 lines max) about the pathophysiological condition (the seed genes context) and, if any, issues with gene IDs 
 
-• a table with seed genes information (point 1b; omit “protein description”) # ok 
+• a table with seed genes information (point 1b; omit “protein description”) <b>ok</b> 
 
-• a summary table of interaction data (point 2)
+• a summary table of interaction data (point 2) <b>ok</b> 
  
-• the 8 charts of the enrichment analysis from Enrichr (point 4)
+• the 8 charts of the enrichment analysis from Enrichr (point 4) <b>ok</b> 
 
 • a table with global measures of SGI, I, U, I-LCC, U-LCC
 
