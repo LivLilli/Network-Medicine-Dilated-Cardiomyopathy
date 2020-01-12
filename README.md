@@ -34,7 +34,7 @@ Project for Bioinformatics Class
 also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC <b>ok</b> 
 
 • summary table of the putative disease modules found with each of the two clustering algorithms (for each module: no. of seed genes in each module, total no. of genes in each module, ratio no. seed genes/total genes in the module, p-value of the
-enrichment using the hypergeometric test)
+enrichment using the hypergeometric test) <b>ok</b> 
 
 • the list of the first 30 genes identified by the DIAMOnD tool and charts from Enrichr.
 
