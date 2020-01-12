@@ -28,7 +28,7 @@ Project for Bioinformatics Class
 
 • a table with global measures of SGI, I, U, I-LCC, U-LCC <b>ok</b> 
 
-• a figure of the SGI and of the I-LCC networks (do not forget figure captions)
+• a figure of the SGI and of the I-LCC networks (do not forget figure captions) <b>ok</b> 
 
 • a table with the first 20 highest ranking genes for betweenness (include in the table
 also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC
