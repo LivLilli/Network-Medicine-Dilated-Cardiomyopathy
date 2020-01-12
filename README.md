@@ -26,7 +26,7 @@ Project for Bioinformatics Class
  
 • the 8 charts of the enrichment analysis from Enrichr (point 4) <b>ok</b> 
 
-• a table with global measures of SGI, I, U, I-LCC, U-LCC
+• a table with global measures of SGI, I, U, I-LCC, U-LCC <b>ok</b> 
 
 • a figure of the SGI and of the I-LCC networks (do not forget figure captions)
 
