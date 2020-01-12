@@ -31,7 +31,7 @@ Project for Bioinformatics Class
 • a figure of the SGI and of the I-LCC networks (do not forget figure captions) <b>ok</b> 
 
 • a table with the first 20 highest ranking genes for betweenness (include in the table
-also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC
+also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC <b>ok</b> 
 
 • summary table of the putative disease modules found with each of the two clustering algorithms (for each module: no. of seed genes in each module, total no. of genes in each module, ratio no. seed genes/total genes in the module, p-value of the
 enrichment using the hypergeometric test)
