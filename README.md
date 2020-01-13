@@ -16,6 +16,8 @@ Project for Bioinformatics Class
 
 * commenta risultati e aggiungi paper
 
+* plot network con cytoskype se c'è tempo
+
 # Part 3 – Reporting
 
 3.1) Summarize the following information in a short report which includes:
