@@ -4,15 +4,17 @@ Project for Bioinformatics Class
 
 # DUBBI
 
+* aggiorna tabelle risultati!!!
 
-* task 1.2 nel REPORT: parla di TMPO e not mapped di biogrid.
+* bordi tabelle su word.
 
-* task 1.4: redownload results from enrichr
+* cita file risultati.
 
-* TASK 2.3: su enrichR coi risultati del task 2.2
+* references! (pandas, db, reports)
 
-* TASK 2.4: ENRICHR
+* rifai enrich task 1.4
 
+* commenta risultati e aggiungi paper
 
 # Part 3 – Reporting
 
@@ -34,7 +36,7 @@ Project for Bioinformatics Class
 also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC <b>ok</b> 
 
 • summary table of the putative disease modules found with each of the two clustering algorithms (for each module: no. of seed genes in each module, total no. of genes in each module, ratio no. seed genes/total genes in the module, p-value of the
-enrichment using the hypergeometric test)
+enrichment using the hypergeometric test) <b>ok</b> 
 
 • the list of the first 30 genes identified by the DIAMOnD tool and charts from Enrichr.
 
