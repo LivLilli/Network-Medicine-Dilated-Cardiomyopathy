@@ -4,6 +4,7 @@ Project for Bioinformatics Class
 
 # DUBBI
 
+* aggiorna tabelle risultati!!!
 
 * task 1.2 nel REPORT: parla di TMPO e not mapped di biogrid.
 
