@@ -9,6 +9,8 @@ Project for Bioinformatics Class
 
 * bordi tabelle su word.
 
+* cita file risultati.
+
 # Part 3 – Reporting
 
 3.1) Summarize the following information in a short report which includes:
