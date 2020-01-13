@@ -14,6 +14,8 @@ Project for Bioinformatics Class
 
 * rifai enrich task 1.4
 
+* commenta risultati e aggiungi paper
+
 # Part 3 – Reporting
 
 3.1) Summarize the following information in a short report which includes:
