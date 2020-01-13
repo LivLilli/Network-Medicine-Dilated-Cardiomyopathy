@@ -12,6 +12,8 @@ Project for Bioinformatics Class
 
 * references! (pandas, db, reports)
 
+* rifai enrich task 1.4
+
 # Part 3 – Reporting
 
 3.1) Summarize the following information in a short report which includes:
