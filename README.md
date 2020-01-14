@@ -12,7 +12,7 @@ Project for Bioinformatics Class
 
 * references! (pandas, db, reports)
 
-* commenta risultati e aggiungi paper
+* abstract, intro, conclusions.
 
 * networkx plot: self loops
 
