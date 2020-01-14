@@ -4,17 +4,13 @@ Project for Bioinformatics Class
 
 # DUBBI
 
-* aggiorna tabelle risultati!!! (mancano enricr1.4, 2.3, 2.4 e diamond genes)
+* Tabella coi primi 30 geni di Diamond.
 
-* bordi tabelle su word.
+* Descrizione Diamond.
 
-* cita file risultati.
+* Conclusions.
 
-* references! (pandas, db, reports)
-
-* abstract, intro, conclusions.
-
-
+* Aggiusta commenti codice.
 
 # Part 3 – Reporting
 
