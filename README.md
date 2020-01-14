@@ -14,6 +14,8 @@ Project for Bioinformatics Class
 
 * abstract, intro, conclusions.
 
+* commenta misure globali e locali.
+
 * networkx plot: self loops
 
 
