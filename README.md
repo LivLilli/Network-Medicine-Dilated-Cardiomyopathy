@@ -14,8 +14,6 @@ Project for Bioinformatics Class
 
 * abstract, intro, conclusions.
 
-* commenta misure globali e locali.
-
 
 
 # Part 3 – Reporting
