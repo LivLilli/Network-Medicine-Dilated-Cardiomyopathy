@@ -16,7 +16,6 @@ Project for Bioinformatics Class
 
 * commenta misure globali e locali.
 
-* networkx plot: self loops
 
 
 # Part 3 – Reporting
