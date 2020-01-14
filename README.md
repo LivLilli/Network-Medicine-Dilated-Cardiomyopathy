@@ -14,6 +14,7 @@ Project for Bioinformatics Class
 
 * commenta risultati e aggiungi paper
 
+* networkx plot: self loops
 
 
 # Part 3 – Reporting
