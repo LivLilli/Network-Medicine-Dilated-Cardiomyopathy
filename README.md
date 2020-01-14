@@ -4,7 +4,7 @@ Project for Bioinformatics Class
 
 # DUBBI
 
-* aggiorna tabelle risultati!!!
+* aggiorna tabelle risultati!!! (mancano enricr1.4, 2.3, 2.4 e diamond genes)
 
 * bordi tabelle su word.
 
@@ -12,9 +12,9 @@ Project for Bioinformatics Class
 
 * references! (pandas, db, reports)
 
-* rifai enrich task 1.4
+* abstract, intro, conclusions.
 
-* commenta risultati e aggiungi paper
+
 
 # Part 3 – Reporting
 
