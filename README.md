@@ -16,7 +16,7 @@ Project for Bioinformatics Class
 
 3.1) Summarize the following information in a short report which includes:
 
-• very short intro (10 lines max) about the pathophysiological condition (the seed genes context) and, if any, issues with gene IDs 
+• very short intro (10 lines max) about the pathophysiological condition (the seed genes context) and, if any, issues with gene IDs  <b>ok</b> 
 
 • a table with seed genes information (point 1b; omit “protein description”) <b>ok</b> 
 
