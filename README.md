@@ -12,11 +12,9 @@ Project for Bioinformatics Class
 
 * references! (pandas, db, reports)
 
-* rifai enrich task 1.4
-
 * commenta risultati e aggiungi paper
 
-* plot network con cytoskype se c'è tempo
+
 
 # Part 3 – Reporting
 
