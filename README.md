@@ -4,12 +4,6 @@ Project for Bioinformatics Class
 
 # DUBBI
 
-* Tabella coi primi 30 geni di Diamond.
-
-* Descrizione Diamond.
-
-* Conclusions.
-
 * Aggiusta commenti codice.
 
 # Part 3 – Reporting
@@ -34,9 +28,9 @@ also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC 
 • summary table of the putative disease modules found with each of the two clustering algorithms (for each module: no. of seed genes in each module, total no. of genes in each module, ratio no. seed genes/total genes in the module, p-value of the
 enrichment using the hypergeometric test) <b>ok</b> 
 
-• the list of the first 30 genes identified by the DIAMOnD tool and charts from Enrichr.
+• the list of the first 30 genes identified by the DIAMOnD tool and charts from Enrichr.<b>ok</b> 
 
 • notes and comments on the method followed, discrepancies, lack of data, any other
-point worth to be mentioned.
+point worth to be mentioned. <b>ok</b> 
 
 Notes: all tables and figures must have a caption (they must be self-consistent); a report template is provided.
