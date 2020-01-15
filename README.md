@@ -2,9 +2,6 @@
 Project for Bioinformatics Class
 
 
-# DUBBI
-
-* Aggiusta commenti codice.
 
 # Part 3 – Reporting
 
