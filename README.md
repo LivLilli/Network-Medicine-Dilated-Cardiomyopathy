@@ -1,10 +1,7 @@
-# Network-Medicine
-Project for Bioinformatics Class
-
-# Brain network study during resting states
+# Network Medicine: Dilated Cardiomyopathy 
 
 
-<div align = "center"><img src="https://i2.wp.com/neurosciencenews.com/files/2017/11/mind-consciouness-neurosciencenews.jpg?fit=1400%2C933&ssl=1"></div>
+<div align = "center"><img src="https://www.telegraph.co.uk/content/dam/health-fitness/spark/bhf/heart-anatomy.jpg?imwidth=450"></div>
 
 
 
