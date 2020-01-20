@@ -1,33 +1,25 @@
 # Network-Medicine
 Project for Bioinformatics Class
 
+# Brain network study during resting states
 
 
-# Part 3 – Reporting
+<div align = "center"><img src="https://i2.wp.com/neurosciencenews.com/files/2017/11/mind-consciouness-neurosciencenews.jpg?fit=1400%2C933&ssl=1"></div>
 
-3.1) Summarize the following information in a short report which includes:
 
-• very short intro (10 lines max) about the pathophysiological condition (the seed genes context) and, if any, issues with gene IDs  <b>ok</b> 
 
-• a table with seed genes information (point 1b; omit “protein description”) <b>ok</b> 
 
-• a summary table of interaction data (point 2) <b>ok</b> 
- 
-• the 8 charts of the enrichment analysis from Enrichr (point 4) <b>ok</b> 
 
-• a table with global measures of SGI, I, U, I-LCC, U-LCC <b>ok</b> 
+>## Aim
 
-• a figure of the SGI and of the I-LCC networks (do not forget figure captions) <b>ok</b> 
+Dilated cardiomyopathy (DCM) is characterized by ventricular dilatation and it is a cause of heart failure (HF) and cardiac transplantations. Our study consisted in exploring potential DCM-related genes and their underlying interactions. In particular our analysis was based on the observation of several ad hoc PPI interactomes, generated from manipulation of interactions data coming from BioGRID and IID databases. Our aim was to find significant correlations among these genes and our disease.
 
-• a table with the first 20 highest ranking genes for betweenness (include in the table
-also all other calculated centrality measures as from 1.2b) for I-LCC and U-LCC <b>ok</b> 
+The project consisted in studying the interactions of genes somehow correlated to the Dilated Cardiomyopathy. In particular, we explored the DisGeNET database in order to find all the genes associated to the disease (i.e. seed genes), checking their symbols on HGNC. Then we used the UniProt database in order to find some additional information about the seed genes. Finally, we searched for their interactions on BioGRID and IID databases, building several ad hoc interactomes in order to make some enrichment analysis. At the end, from the interactomes we pass to the corresponding networks, doing an in-depth topological study.
 
-• summary table of the putative disease modules found with each of the two clustering algorithms (for each module: no. of seed genes in each module, total no. of genes in each module, ratio no. seed genes/total genes in the module, p-value of the
-enrichment using the hypergeometric test) <b>ok</b> 
 
-• the list of the first 30 genes identified by the DIAMOnD tool and charts from Enrichr.<b>ok</b> 
 
-• notes and comments on the method followed, discrepancies, lack of data, any other
-point worth to be mentioned. <b>ok</b> 
 
-Notes: all tables and figures must have a caption (they must be self-consistent); a report template is provided.
+                   
+
+
+
