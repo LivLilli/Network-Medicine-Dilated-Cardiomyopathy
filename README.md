@@ -16,7 +16,5 @@ The project consisted in studying the interactions of genes somehow correlated t
 
 
 
-                   
-
 
 
